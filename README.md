@@ -12,3 +12,5 @@ The course is taught by Prof. [Gregor](https://en.wikipedia.org/wiki/Gregor_Kicz
 - How to design worlds (interactive programs)
 - Represent more complex data
 - Functional programming
+
+Use DrRacket to open .rkt files
